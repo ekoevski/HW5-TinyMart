@@ -1,0 +1,42 @@
+Testing Cart
+============
+Cart Owner:  John Smith
+
+[Music]
+Product ID: 1                 ProductName: Yesterday
+Price: $16.5                  Product Review Rate: 9.8
+Singer Name: The Beatles  
+Genre: Pop
+
+[Music]
+Product ID: 2                 ProductName: YWe Are The World
+Price: $13.75                 Product Review Rate: 9.1
+Singer Name: Michael Jackson
+Genre: Country
+
+[Movie]
+Product ID: 4                 ProductName: Sound of Music
+Price: 22                     Product Review Rate: 9.8
+Release Year: 1965
+Film Rating: G
+Runtime: 195
+Director Name: Robert Wise
+ 
+[E Book]
+Product ID: 5                 Product Name: The Old Man and the Sea
+Price: $8.3                   Product Review Rate: 9.5
+Author: Ernest Hemmingway
+Pages: 127
+
+[Movie]
+Product ID: 8                 ProductName: Star Wars
+Price: 22                     Product Review Rate: 8.5
+Release Year: 1977
+Film Rating: PG
+Runtime: 120
+Director Name: George Lucas
+ 
+===== Summary of Purchase =====
+Total number of purchases: 5
+Total purchasing amount: $82.55
+Average Price: $16.51
